@@ -86,7 +86,3 @@ The whole plugin is `src/main/java/io/github/cinecam/CineCamPlugin.java`.
 - During playback the player is in spectator mode and spectates an invisible item display. The display has a teleport duration of one tick, so the client interpolates between the steps.
 
 Good places to start if you want to change something: the ease curve in `play(...)`, the spline in `onPath(...)`, or the messages in `config.yml`.
-
-## License
-
-MIT. See [LICENSE](LICENSE).
