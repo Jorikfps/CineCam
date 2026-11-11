@@ -19,7 +19,7 @@ The default camera method uses a display entity with teleport interpolation, whi
 
 ## Installation
 
-1. Download `CineCam-1.0.0.jar` from the releases page, or build it yourself (see below).
+1. Download `CineCam-1.0.1.jar` from the releases page, or build it yourself (see below).
 2. Put the jar in your server's `plugins` folder.
 3. Restart the server.
 
